@@ -1,4 +1,4 @@
-Hi, I'm @Bayoumi!
+Hi, I'm @Mohammed!
 I'm a curious soul with a passion for unraveling the mysteries of the digital world. From building intricate web applications to tinkering with AI, I find joy in exploring the ever-evolving landscape of technology.
 
 I'm interested in...
@@ -15,7 +15,6 @@ Collaborative research projects that explore the potential of AI and machine lea
 Creative web development projects that push the boundaries of design and functionality.
 How to reach me...
 Feel free to connect with me on these platforms:
-GitHub: @Bayoumi
-Twitter: @BayoumiDev (or a made-up Twitter handle)
-Pronouns: They/Them
+GitHub: @Mohammed
+Twitter: @MohammedDev 
 ⚡ Fun fact: I can solve a Rubik's Cube in under a minute! 
